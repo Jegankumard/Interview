@@ -21,23 +21,23 @@ Interview preparation for various topics in DevOps
 8.0. Ansible/About
 8.1. Terraform/About
 9.0. Azure
-		- ACS/About
-		- AKS/About
-		- Boards/About
-		- Devops/About
-		- Pipelines/About
-		- Functions/About
-		- API-Management/About
-		- ServiceBus/About
-		- StorageAccount/About
-		- Webapps/About
-		- Appservice/About
-		- AD/About
-		- Eventgrid/About
-		- Eventhub/About
-		- Logicapps/About
-		- LogAnalystics/About
-		- ApplicationInsights/About
-		- CosmosDB/About
+	- ACS/About
+	- AKS/About
+	- Boards/About
+	- Devops/About
+	- Pipelines/About
+	- Functions/About
+	- API-Management/About
+	- ServiceBus/About
+	- StorageAccount/About
+	- Webapps/About
+	- Appservice/About
+	- AD/About
+	- Eventgrid/About
+	- Eventhub/About
+	- Logicapps/About
+	- LogAnalystics/About
+	- ApplicationInsights/About
+	- CosmosDB/About
 
 ```
