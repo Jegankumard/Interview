@@ -2,7 +2,9 @@
 Interview preparation for various topics in DevOps
 
 ```
-0.0. Basics/Shell scripting/About
+0.0. Basics
+	- Shell scripting/About
+	- Linux commands/About
 1.0. Git/About
 1.1. Github/About
 1.2. Github Actions/About
