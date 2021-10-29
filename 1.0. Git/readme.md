@@ -6,7 +6,7 @@ GIT  -   Mock interview Answers - https://youtu.be/5w8qVukxXXY
    how would you achieve the same?
 - difference between git pull and git fetch?
 - How to clone specific branch in git?
-ANSWERS
+### ANSWERS
 ```
 ```
 
@@ -20,7 +20,7 @@ GIT - Mock interview Answers - https://youtu.be/7WJ31VFk1_Y
 - Lets say you have changed 5 files a,b,c,d and e in a repo and you did git add ., now all the files are in staging area, now i decided 
    not to commit file d. how would delete it from staging area?
 
-ANSWERS
+### ANSWERS
 ```
 ```
 
@@ -31,7 +31,7 @@ GIT
    on old code. Here after changing the old code, I need to work on new code, so I need to place my new changes some place How would handle this scenario? 
 - What is a conflict in git?
 - command to list all branches in a repo?
-ANSWERS
+### ANSWERS
 ```
 ```
 
@@ -42,6 +42,6 @@ GIT
 - How to delete local branch  and remote branch in git ? 
 - Difference between git diff and git status ?
 - What are hooks in git? 
-ANSWERS
+### ANSWERS
 ```
 ```
