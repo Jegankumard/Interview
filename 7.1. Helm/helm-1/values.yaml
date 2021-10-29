@@ -13,7 +13,7 @@
 ##
 image:
   registry: docker.io
-  repository1: deekshithsn/devops-training
+  repository: deekshithsn/devops-training
   tag: cf4839d60a8c7d7a8c4454a26ede6f14b9619468
   ## Specify a imagePullPolicy
   ## Defaults to 'Always' if image tag is 'latest', else set to 'IfNotPresent'
@@ -195,7 +195,7 @@ service:
 ingress:
   ## Set to true to enable ingress record generation
   ##
-  enabled: false
+  enabled: true
 
   ## Set this to true in order to add the corresponding annotations for cert-manager
   ##
