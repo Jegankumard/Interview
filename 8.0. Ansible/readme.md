@@ -5,7 +5,7 @@ Ansible
 - what is ansible.cfg file?
 - what are the modules have you worked on? which module will you use for getting the file from node to master?
 - Lets say i have a playbook which has 5 tasks in playbook, first 2 tasks should run on local machine and other 3 tasks should run on node?
-ANSWERS
+### ANSWERS
 ```
 ```
 Ansible
@@ -14,7 +14,7 @@ Ansible
 - what are ansible roles? why we need ansible roles? have you worked on ansible galaxy?
 - What are ansible facts?
 - Can we have windows machine as ansible master? as node?have you worked on any windows modules? can you list few?any extra configuration do we need to do?
-ANSWERS
+### ANSWERS
 ```
 ```
 Ansible
@@ -23,7 +23,7 @@ Ansible
 - What is ansible vault and ansible tower?
 - Lets say I have playbook need to be run with Root user how would you do this?
 - Difference between copy and fetch module?
-ANSWERS
+### ANSWERS
 ```
 ```
 
@@ -34,6 +34,6 @@ ANSIBLE
 - What is dynamic inventory in ansible?
 - Lets say I have both Ubuntu and centos machines as nodes I want install application tree using same playbook, how would you approach this scenario? 
 - How to handle prompts with ansible playbook?
-ANSWERS
+### ANSWERS
 ```
 ```
